@@ -1,0 +1,5 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/com/example/todo_api/controller/ApiUtil.java
+src/main/java/com/example/todo_api/controller/HealthApi.java
