@@ -1,0 +1,11 @@
+openapi: '3.1.1'
+info:
+  title: TODO API Document
+  description: TODO APIのドキュメント
+  version: '1.0.0'
+paths:
+  /health:
+    get:
+      responses:
+        '200':
+          description: OK
